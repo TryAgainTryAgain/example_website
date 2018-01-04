@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+#on mac this is hiddle file, ignore it
+.DS_Store
+#You can add things like sensitive species locations here, so it doesn't end up on Git
+
